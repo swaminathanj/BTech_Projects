@@ -39,7 +39,7 @@ This study investigates the use of genetic programming for automated code correc
   <tr>
     <td>4</td>
     <td>Project Phase - 1 Assessment</td>
-    <td>Techinal Report</td>
-    <td></td>
+    <td>Technical Report</td>
+    <td>Nov 20, 2023</td>
   </tr>  
 </table>
